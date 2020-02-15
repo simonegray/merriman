@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>merriman signature EN</title>
+	<meta content="text/html; charset=utf-8" http-equiv=Content-Type>
+	<style type="text/css">
+		@font-face {
+		font-family:"Authentic Sans";
+		src:url("https://www.merriman-bureau.gr/authentic-sans.woff") format("woff"),
+		url("https://www.merriman-bureau.gr/authentic-sans.otf") format("opentype");
+		}
+		
+		body,
+		p { 
+		font-family: Authentic Sans, Helvetica,sans-serif;
+		color: #231F20;
+		font-weight: 400;
+		text-align: left;
+		font-size: 14px;
+		letter-spacing:0.05em;
+		line-height: 18px;
+		background-color: none;
+		padding: 0px 0px 18px 0px;
+		margin:0px
+		}
+
+		.blueLinks a { 
+         color:#231F20 !important;  
+         text-decoration: none !important;
+		}
+
+		a[x-apple-data-detectors] {
+		color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+		}
+
+		u + #body .blueLinks a {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+		}
+
+		#MessageViewBody a {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+		}
+
+	</style>
+</head>
+<body id="body">
+	<p style="font-size:16px !important;">merriman</p>
+	<p>John Houmos</p>
+	<p class="blueLinks"><span style="font-size: 13px !important;">0030 697 8776970<br/>0030 211 1171725</span><br/>
+	<a href="mailto:john@merriman-bureau.gr">john@merriman-bureau.gr</a></p>
+	<p class="blueLinks"><a href="https://www.merriman-bureau.gr" alt="">merriman-bureau.gr</a> </p>
+</body>
+</html>
