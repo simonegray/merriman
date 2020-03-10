@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<title>merriman signature EN</title>
+	<title>merriman signature GR</title>
 	<meta content="text/html; charset=utf-8" http-equiv=Content-Type>
 	<style type="text/css">
 		@font-face {
@@ -11,16 +11,15 @@
 		}
 		
 		body,
-		p { 
+		td { 
 		font-family: Helvetica,sans-serif;
 		color: #231F20;
 		font-weight: 400;
 		text-align: left;
 		font-size: 14px;
 		letter-spacing:0.05em;
-		line-height: 18px;
+		line-height: 16px;
 		background-color: none;
-		padding: 0px 0px 18px 0px;
 		margin:0px
 		}
 
@@ -59,10 +58,31 @@
 	</style>
 </head>
 <body id="body">
-	<p style="font-size:16px !important;">merriman</p>
-	<p style="letter-spacing:0em !important;">Γιάννης Χούμος</p>
-	<p class="blueLinks"><span style="font-size: 13px !important;">0030 697 8776970<br/>0030 211 1171725</span><br/>
-	<a href="mailto:john@merriman-bureau.gr">john@merriman-bureau.gr</a></p>
-	<p class="blueLinks"><a href="https://www.merriman-bureau.gr" alt="">merriman-bureau.gr</a> </p>
+	<table>
+	<tr style="letter-spacing:0em !important;">
+		<td style="padding-bottom: 14px!important;">Γιάννης Χούμος</td>
+	</tr>
+	<tr>
+		<td style="font-size:18px !important; padding-bottom: 14px!important;">merriman</td>
+	</tr>
+	<tr style="letter-spacing:0em !important;">
+		<td>Κωσμά Μελωδού 10 & Ωριγένους</td></td>
+	</tr>
+	<tr style="letter-spacing:0em !important;">
+		<td style="padding-bottom: 14px!important;"> 114 71, Νεάπολη, Αθήνα</td></td>
+	</tr>
+	<tr class="blueLinks">
+		<td style="font-size: 14px !important;">00030 211 1171725</td>
+	</tr>
+	<tr class="blueLinks">
+		<td style="font-size: 14px !important; padding-bottom: 14px!important;">0030 697 8776970</td>
+	</tr>
+	<tr class="blueLinks">
+		<td><a href="mailto:john@merriman-bureau.gr">john@merriman-bureau.gr</a></td>
+	</tr>
+	<tr class="blueLinks">
+		<td><a href="https://www.merriman-bureau.gr" alt="">merriman-bureau.gr</a> </td>
+	</tr>
+	</table>
 </body>
 </html>
