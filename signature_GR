@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<title>merriman signature GR</title>
-	<meta content="text/html; charset=utf-8" http-equiv=Content-Type>
+	<title>merriman signature EN</title>
+	<meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
 	<style type="text/css">
 		@font-face {
 		font-family:"Authentic Sans";
@@ -25,7 +25,7 @@
 
 		.blueLinks a { 
          color:#231F20 !important;  
-         text-decoration: none !important;
+         text-decoration:none!important;
 		}
 
 		a[x-apple-data-detectors] {
@@ -60,25 +60,34 @@
 <body id="body">
 	<table>
 	<tr style="letter-spacing:0em !important;">
-		<td style="padding-bottom: 14px!important;">Γιάννης Χούμος</td>
+		<td>Γιάννης Χούμος</td>
+	</tr>
+	<tr style="letter-spacing:0em !important;">
+		<td></td>
+	</tr>
+	<tr style="letter-spacing:0em !important;">
+		<td></td>
+	</tr>
+	<tr style="letter-spacing:0em !important;">
+		<td></td>
 	</tr>
 	<tr>
 		<td style="font-size:18px !important; padding-bottom: 14px!important;">merriman</td>
 	</tr>
 	<tr style="letter-spacing:0em !important;">
-		<td>Κoσμά Μελωδού 10 & Ωριγένους</td></td>
+		<td>Κoσμά Μελωδού&#173; 10 &amp; Ωριγένους</td>
 	</tr>
 	<tr style="letter-spacing:0em !important;">
-		<td style="padding-bottom: 14px!important;"> 114 71, Νεάπολη, Αθήνα</td></td>
+		<td style="padding-bottom: 14px!important;"> 114&#173; 71&#44; Νεάπολη&#44; Αθήνα</td>
 	</tr>
 	<tr class="blueLinks">
-		<td style="font-size: 14px !important;">00030 211 1171725</td>
+		<td style="font-size: 14px !important;">&#173;0030 211&#173; 1171725&#173;</td>
 	</tr>
 	<tr class="blueLinks">
-		<td style="font-size: 14px !important; padding-bottom: 14px!important;">0030 697 8776970</td>
+		<td style="font-size: 14px !important; padding-bottom: 14px!important;">0030&#173; 697&#173; 8776970&#173;</td>
 	</tr>
 	<tr class="blueLinks">
-		<td><a href="mailto:john@merriman-bureau.gr">john@merriman-bureau.gr</a></td>
+		<td><a style="text-decoration:none!important;" href="mailto:john@merriman-bureau.gr">john@merriman-bureau.gr</a></td>
 	</tr>
 	<tr class="blueLinks">
 		<td><a href="https://www.merriman-bureau.gr" alt="">merriman-bureau.gr</a> </td>
