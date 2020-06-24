@@ -1,96 +1,81 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 <head>
-	<title>merriman signature EN</title>
-	<meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
-	<style type="text/css">
-		@font-face {
-		font-family:"Authentic Sans";
-		src:url("https://www.merriman-bureau.gr/authentic-sans.woff") format("woff"),
-		url("https://www.merriman-bureau.gr/authentic-sans.otf") format("opentype");
-		}
-		
-		body,
-		td { 
+<title>merriman signature EN</title>
+<meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
+<style type="text/css">
+		body { 
 		font-family: Helvetica,sans-serif;
 		color: #231F20;
-		font-weight: 400;
 		text-align: left;
 		font-size: 14px;
-		letter-spacing:0.05em;
-		line-height: 16px;
+		letter-spacing: 0.05em;
 		background-color: none;
-		margin:0px
 		}
-
-		.blueLinks a { 
-         color:#231F20 !important;  
-         text-decoration:none!important;
+		table {
+        border-collapse:separate;
+        width:100%;
+		margin: 0px 0px 0px 0px !important;
+		padding: 0px 0px 0px 0px !important;
 		}
-
-		a[x-apple-data-detectors] {
-		color: inherit !important;
+		p {
+		margin-top: 1px !important;
+		margin-bottom: 1px !important;
+		margin-right: 1px !important;
+		margin-left: 1px !important;
+		padding-top: 1px !important;
+		padding-bottom: 1px !important;
+		padding-right: 1px !important;
+		padding-left: 1px !important;
+		}
+		a, a:link, a:visited  { 
+        color: #231F20;
         text-decoration: none !important;
-        font-size: inherit !important;
-        font-family: inherit !important;
-        font-weight: inherit !important;
-        line-height: inherit !important;
 		}
-
-		u + #body .blueLinks a {
-        color: inherit !important;
-        text-decoration: none !important;
-        font-size: inherit !important;
-        font-family: inherit !important;
-        font-weight: inherit !important;
-        line-height: inherit !important;
-		}
-
-		#MessageViewBody a {
-        color: inherit !important;
-        text-decoration: none !important;
-        font-size: inherit !important;
-        font-family: inherit !important;
-        font-weight: inherit !important;
-        line-height: inherit !important;
-		}
-
+      	a:hover {
+      	text-decoration: underline;
+      	color: #231F20 !important;
+      	}
+      	h2,h2 a,h2 a:visited,h3,h3 a,h3 a:visited,h4,h5,h6,.t_cht {
+      	color: #231F20 !important;
+      	}
+  		.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {
+  		line-height: 100%;}
+  		.ExternalClass {
+  		width: 100%;}
 	</style>
 </head>
 <body id="body">
 	<table>
-	<tr style="letter-spacing:0em !important;">
-		<td>John Houmos</td>
+	<tr>
+		<td><p>John Houmos</p></td>
 	</tr>
-	<tr style="letter-spacing:0em !important;">
-		<td></td>
-	</tr>
-	<tr style="letter-spacing:0em !important;">
-		<td></td>
-	</tr>
-	<tr style="letter-spacing:0em !important;">
+	<tr>
 		<td></td>
 	</tr>
 	<tr>
-		<td style="font-size:18px !important; padding-bottom: 14px!important;">merriman</td>
+		<td></td>
 	</tr>
-	<tr style="letter-spacing:0em !important;">
-		<td>Kosma Melodou&#173; 10 &amp; Origenous</td>
+	<tr>
+		<td><p>merriman</p></td>
 	</tr>
-	<tr style="letter-spacing:0em !important;">
-		<td style="padding-bottom: 14px!important;"> 114&#173; 71&#44; Neapoli&#44; Athens</td>
+	<tr>
+		<td><p>Kosma Melodou&#173; 10 &amp; Origenous</p></td>
 	</tr>
-	<tr class="blueLinks">
-		<td style="font-size: 14px !important;">&#173;0030 211&#173; 1171725&#173;</td>
+	<tr>
+		<td><p> 114&#173; 71&#44; Neapoli&#44; Athens</p></td>
 	</tr>
-	<tr class="blueLinks">
-		<td style="font-size: 14px !important; padding-bottom: 14px!important;">0030&#173; 697&#173; 8776970&#173;</td>
+	<tr>
+		<td><p>&#173;0030 211&#173; 1171725&#173;</p></td>
 	</tr>
-	<tr class="blueLinks">
-		<td><a style="text-decoration:none!important;" href="mailto:john@merriman-bureau.gr">john@merriman-bureau.gr</a></td>
+	<tr>
+		<td><p>0030&#173; 697&#173; 8776970&#173;</p></td>
 	</tr>
-	<tr class="blueLinks">
-		<td><a href="https://www.merriman-bureau.gr" alt="">merriman-bureau.gr</a> </td>
+	<tr>
+		<td><p><a href="mailto:john@merriman-bureau.gr" rel="nofollow">john@merriman-bureau.gr</a></p></td>
+	</tr>
+	<tr>
+		<td><p><a href="https://www.merriman-bureau.gr" rel="nofollow" alt="">merriman-bureau.gr</a></p></td>
 	</tr>
 	</table>
 </body>
