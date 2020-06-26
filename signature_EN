@@ -86,7 +86,7 @@
 <body id="body">
 	<table>
 	<tr>
-		<td><p>John Houmos</p></td>
+		<td><p style="margin:0px !important;">John Houmos</p></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -95,25 +95,25 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td><p>merriman</p></td>
+		<td><p style="margin:0px !important;">merriman</p></td>
 	</tr>
 	<tr>
-		<td><p>Kosma Melodou&#173; 10 &amp; Origenous</p></td>
+		<td><p style="margin:0px !important;">Kosma Melodou&#173; 10 &amp; Origenous</p></td>
 	</tr>
 	<tr>
-		<td><p> 114&#173; 71&#44; Neapoli&#44; Athens</p></td>
+		<td><p style="margin:0px !important;"> 114&#173; 71&#44; Neapoli&#44; Athens</p></td>
 	</tr>
 	<tr>
-		<td><p>&#173;0030 211&#173; 1171725&#173;</p></td>
+		<td><p style="margin:0px !important;">&#173;0030 211&#173; 1171725&#173;</p></td>
 	</tr>
 	<tr>
-		<td><p>0030&#173; 697&#173; 8776970&#173;</p></td>
+		<td><p style="margin:0px !important;">0030&#173; 697&#173; 8776970&#173;</p></td>
 	</tr>
 	<tr>
-		<td><p><a href="mailto:john@merriman-bureau.gr" rel="nofollow">john@merriman-bureau.gr</a></p></td>
+		<td><p style="margin:0px !important;"><a href="mailto:john@merriman-bureau.gr" rel="nofollow">john@merriman-bureau.gr</a></p></td>
 	</tr>
 	<tr>
-		<td><p><a href="https://www.merriman-bureau.gr" rel="nofollow" alt="">merriman-bureau.gr</a></p></td>
+		<td><p style="margin:0px !important;"><a href="https://www.merriman-bureau.gr" rel="nofollow" alt="">merriman-bureau.gr</a></p></td>
 	</tr>
 	</table>
 </body>
