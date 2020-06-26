@@ -5,57 +5,28 @@
 <meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
 <style type="text/css">
 body,td { font-family: Helvetica,sans-serif; color: #231F20; font-weight: 400; text-align: left; font-size: 14px; letter-spacing:0.05em; line-height: 16px; background-color: none; margin:0px}
-
-.blueLinks a { color:#231F20 !important; text-decoration:none!important;}
-
 p {margin-top: 1px !important; margin-bottom: 1px !important; margin-right: 1px !important; margin-left: 1px !important; padding-top: 1px !important;padding-bottom: 1px !important; padding-right: 1px !important; padding-left: 1px !important;}
-
 a, a:link, a:visited  {color: #231F20; text-decoration: none !important;}
 a:hover {text-decoration: underline; color: #231F20 !important;}
 h2,h2 a,h2 a:visited,h3,h3 a,h3 a:visited,h4,h5,h6,.t_cht {color: #231F20 !important;}
 .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 100%;}
 .ExternalClass {width: 100%;}
-
 a[x-apple-data-detectors] {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important;font-weight: inherit !important; line-height: inherit !important;}
-
 u + #body .blueLinks a {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important;font-weight: inherit !important; line-height: inherit !important;}
-
 #MessageViewBody a {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important;font-weight: inherit !important; line-height: inherit !important;
 		}
 </style>
 </head>
 <body id="body">
 	<table>
-	<tr>
-		<td><p style="margin:0px !important;">John Houmos</p></td>
-	</tr>
-	<tr>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-	</tr>
-	<tr>
-		<td><p style="font-size: 14px; letter-spacing:0.05em;margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;">merriman</p></td>
-	</tr>
-	<tr>
-		<td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;">Kosma Melodou&#173; 10 &amp; Origenous</p></td>
-	</tr>
-	<tr>
-		<td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;"> 114&#173; 71&#44; Neapoli&#44; Athens</p></td>
-	</tr>
-	<tr>
-		<td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;">&#173;0030 211&#173; 1171725&#173;</p></td>
-	</tr>
-	<tr>
-		<td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;">0030&#173; 697&#173; 8776970&#173;</p></td>
-	</tr>
-	<tr>
-		<td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;"><a href="mailto:john@merriman-bureau.gr" rel="nofollow">john@merriman-bureau.gr</a></p></td>
-	</tr>
-	<tr>
-		<td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;"><a href="https://www.merriman-bureau.gr" rel="nofollow" alt="">merriman-bureau.gr</a></p></td>
-	</tr>
+	<tr><td><p style="font-size: 14px;">John Houmos</p></td></tr>
+	<tr><td><p style="font-size: 14px; letter-spacing:0.05em;margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;">merriman</p></td></tr>
+	<tr><td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;">Kosma Melodou&#173; 10 &amp; Origenous</p></td></tr>
+	<tr><td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;"> 114&#173; 71&#44; Neapoli&#44; Athens</p></td></tr>
+	<tr><td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;">&#173;0030 211&#173; 1171725&#173;</p></td></tr>
+	<tr><td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;">0030&#173; 697&#173; 8776970&#173;</p></td></tr>
+	<tr><td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;"><a style="color: #231F20; text-decoration: none !important;" href="mailto:john@merriman-bureau.gr" rel="nofollow">john@merriman-bureau.gr</a></p></td></tr>
+	<tr><td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;"><a style="color: #231F20; text-decoration: none !important;" href="https://www.merriman-bureau.gr" rel="nofollow" alt="">merriman-bureau.gr</a></p></td></tr>
 	</table>
 </body>
 </html>
