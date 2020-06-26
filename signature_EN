@@ -6,7 +6,7 @@
 <style type="text/css">
 body,td { font-family: Helvetica,sans-serif; color: #231F20; font-weight: 400; text-align: left; font-size: 14px; letter-spacing:0.05em; line-height: 16px; background-color: none; margin:0px}
 p {margin-top: 1px !important; margin-bottom: 1px !important; margin-right: 1px !important; margin-left: 1px !important; padding-top: 1px !important;padding-bottom: 1px !important; padding-right: 1px !important; padding-left: 1px !important;}
-a, a:link, a:visited  {color: #231F20; text-decoration: none !important;}
+a, a:link, a:visited  a:active {color: #231F20; text-decoration: none !important;}
 a:hover {text-decoration: underline; color: #231F20 !important;}
 h2,h2 a,h2 a:visited,h3,h3 a,h3 a:visited,h4,h5,h6,.t_cht {color: #231F20 !important;}
 .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 100%;}
