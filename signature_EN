@@ -17,7 +17,8 @@ a[x-apple-data-detectors] {color: inherit !important; text-decoration: none !imp
 u + #body .blueLinks a {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important;font-weight: inherit !important; line-height: inherit !important;}
 #MessageViewBody a {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important;font-weight: inherit !important; line-height: inherit !important;}
 @media (prefers-color-scheme: dark ) {
-a, a:link, a:visited, a:active {color: #ffffff !important;}}
+a, a:link, a:visited, a:active {color: #ffffff !important;}
+.link {color: #ffffff !important;}}
  
 </style>
 </head>
