@@ -5,6 +5,11 @@
 <meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
 <meta name="color-scheme" content="light dark">
 <meta name="supported-color-schemes" content="light dark">
+<style type="text/css">
+@media (prefers-color-scheme: dark ) {
+a, a:link, a:visited, a:active {color: #ffffff !important;}
+.link {color: #ffffff !important;}}
+</style>
 </head>
 <body style="font-family: Helvetica,sans-serif; color: #231F20; font-weight: 400; text-align: left; font-size: 14px; letter-spacing:0.05em; line-height: 16px; background-color: none; margin:0px;">
 	<table style="width:250px;">
