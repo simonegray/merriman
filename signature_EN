@@ -14,6 +14,10 @@ h2,h2 a,h2 a:visited,h3,h3 a,h3 a:visited,h4,h5,h6,.t_cht {color: #231F20 !impor
 a[x-apple-data-detectors] {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important;font-weight: inherit !important; line-height: inherit !important;}
 u + #body .blueLinks a {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important;font-weight: inherit !important; line-height: inherit !important;}
 #MessageViewBody a {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important;font-weight: inherit !important; line-height: inherit !important;}
+@media (prefers-color-scheme: dark ) {
+a, a:link, a:visited, a:active {color: #231F20 !important; text-decoration: none !important;
+text-decoration: none !important;}
+ 
 </style>
 </head>
 <body id="body">
@@ -24,7 +28,7 @@ u + #body .blueLinks a {color: inherit !important; text-decoration: none !import
 	<tr><td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;"> 114&#173; 71&#44; Neapoli&#44; Athens</p></td></tr>
 	<tr><td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;">&#173;0030 211&#173; 1171725&#173;</p></td></tr>
 	<tr><td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;">0030&#173; 697&#173; 8776970&#173;</p></td></tr>
-	<tr><td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px; color: #231F20 !important;"><a style="color: #231F20 !important; text-decoration: none !important;" href="mailto:john@merriman-bureau.gr" rel="nofollow"><span style="color: #231F20 !important;"><font color="#231F20">john@merriman-bureau.</font></span></a></p></td></tr>
+	<tr><td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px; color: #231F20 !important;"><a style="color: #231F20 !important; text-decoration: none !important;" href="mailto:john@merriman-bureau.gr" rel="nofollow"><span style="color: #231F20 !important;"><font color="#231F20">john@merriman-bureau</font></span></a></p></td></tr>
 	<tr><td><p style="font-size: 14px; letter-spacing:0.05em; margin-top:1px; margin-bottom: 1px; margin-left:1px; margin-right: 1px;"><a style="color: #231F20 !important; text-decoration: none !important;" href="https://www.merriman-bureau.gr" rel="nofollow" alt=""><span style="color: #231F20 !important;"><font color="#231F20">merriman-bureau.gr</font></span></a></p></td></tr>
 	</table>
 </body>
