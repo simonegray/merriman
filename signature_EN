@@ -3,6 +3,8 @@
 <head>
 <title>merriman signature EN</title>
 <meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark">
 <style type="text/css">
 body,td { font-family: Helvetica,sans-serif; color: #231F20; font-weight: 400; text-align: left; font-size: 14px; letter-spacing:0.05em; line-height: 16px; background-color: none; margin:0px}
 p {margin-top: 1px !important; margin-bottom: 1px !important; margin-right: 1px !important; margin-left: 1px !important; padding-top: 1px !important;padding-bottom: 1px !important; padding-right: 1px !important; padding-left: 1px !important;}
@@ -15,8 +17,7 @@ a[x-apple-data-detectors] {color: inherit !important; text-decoration: none !imp
 u + #body .blueLinks a {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important;font-weight: inherit !important; line-height: inherit !important;}
 #MessageViewBody a {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important;font-weight: inherit !important; line-height: inherit !important;}
 @media (prefers-color-scheme: dark ) {
-a, a:link, a:visited, a:active {color: #231F20 !important; text-decoration: none !important;
-text-decoration: none !important;}
+a, a:link, a:visited, a:active {color: #ffffff !important;}}
  
 </style>
 </head>
